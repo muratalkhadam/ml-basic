@@ -1,0 +1,5 @@
+*.docx
+*.tmp
+venv/
+assets/
+.idea
